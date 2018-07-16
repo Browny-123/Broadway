@@ -12,33 +12,27 @@ h1 {
   font-weight: bold;
   color: white;
 }
-
-.Middle {
-  color: black;
-
-}
 .Black {
   color: black;
   font-size: 14px;
 }
-#Bottom {
-  color: white;
-}
 .bottom {
   color: black;
-}
-.footer {
-  text-align: left;
 }
 a {
   color: white;
 }
-#footer {
-  background-color: gray;
+.footer {
+  background-color: dimgray;
   color: white;
   text-align: left;
+  font-size: 11px;
 }
-.bottom,
-p {
+.Bottom p {
   font-size: 14px;
+}
+.Bottom .Header {
+  font-size: 23px;
+  font-weight: Bold;
+  color: white;
 }
