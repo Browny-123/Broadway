@@ -4,22 +4,41 @@ body {
 }
 .Header {
   background-image: url("./Images/Building.png");
+  font-size: 18px;
+  color: white;
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
-.header,
- p {
-  font-size: 18px;
-  color: white;
-}
+
 .Middle {
   color: black;
 
 }
 .Black {
   color: black;
+  font-size: 14px;
+}
+#Bottom {
+  color: white;
+}
+.bottom {
+  color: black;
+}
+.footer {
+  text-align: left;
+}
+a {
+  color: white;
+}
+#footer {
+  background-color: gray;
+  color: white;
+  text-align: left;
+}
+.bottom,
+p {
   font-size: 14px;
 }
